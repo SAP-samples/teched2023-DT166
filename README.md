@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called Session ID DT166 - Proteect the Intelligent Enterprise with SAP Enterprise Threat Detection.  
+This repository contains the material for the SAP TechEd 2023 session called Session ID DT166 - Protect the Intelligent Enterprise with SAP Enterprise Threat Detection.  
 
 ## Overview
 
