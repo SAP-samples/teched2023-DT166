@@ -12,7 +12,7 @@ This session provides a complete Demo lesson with insights into SAP Enterprise T
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+No specific pre -requirements to follow the exercises in this repository.
 
 ## Exercises
 
