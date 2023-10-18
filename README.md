@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2023 session called Ses
 
 ## Overview
 
-This session provides a complete Demo lesson with insights into SAP Enterprise Threat Detection, and how it helps to protect your SAP landscape. The PDF document in this folder provides the presentation which will be given in the session.
+This session provides a complete Demo lesson with insights into SAP Enterprise Threat Detection, and how it helps to protect your SAP landscape. The TechEd_Presentation_2023.pdf document in this folder provides the presentation which will be given in the session.
 
 ## Requirements
 
