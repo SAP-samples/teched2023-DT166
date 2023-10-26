@@ -855,7 +855,8 @@ style="width:3.92153in;height:2.16875in" /></td>
 <tr class="odd">
 <td><ol start="51" type="1">
 <li><p>To add a filter for failed logon events, click on legend <em>User
-Logon, Failure.</em></p></li>
+Logon, Failure.</em></p>
+<p><strong>Hint:</strong> If there are no <em>User Logon, Failure</em> Events, please log out of ETD, and try to logon by explicitly using a wrong password for one time. Then a <em>User Logon, Failure</em> Event arrives. After that you can logon with the right password again</p></li>
 </ol></td>
 <td><img src="media/image53.png"
 style="width:3.92153in;height:2.16875in" /></td>
